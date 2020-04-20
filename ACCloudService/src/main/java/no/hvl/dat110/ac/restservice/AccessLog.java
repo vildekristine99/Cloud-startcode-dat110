@@ -1,4 +1,4 @@
-package no.hvl.dat110.ac.rest;
+package no.hvl.dat110.ac.restservice;
 
 import java.util.concurrent.ConcurrentHashMap;
 import java.util.concurrent.atomic.AtomicInteger;

@@ -1,4 +1,4 @@
-package no.hvl.dat110.ac.rest;
+package no.hvl.dat110.ac.restservice;
 
 public class AccessEntry {
 
